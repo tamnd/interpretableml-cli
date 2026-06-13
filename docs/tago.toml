@@ -1,0 +1,10 @@
+title       = "iml"
+baseURL     = "https://interpretableml-cli.tamnd.com/"
+description = "Browse Interpretable ML book chapters"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/interpretableml-cli"
